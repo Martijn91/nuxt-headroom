@@ -18,7 +18,7 @@ This module is an extension for easy integration within a Nuxt web application.
 ### Installing
 
 ```bash
-npm install nuxt-headroom
+npm i --save-dev nuxt-headroom
 ```
 
 - Add 'nuxt-headroom' dependancy to buildModules @ nuxt.config.js

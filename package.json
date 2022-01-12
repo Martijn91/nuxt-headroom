@@ -20,5 +20,13 @@
   "devDependencies": {
     "vue": "^2.6.14",
     "vue-headroom": "^0.10.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martijn91/nuxt-headroom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Martijn91/nuxt-headroom/issues"
+  },
+  "homepage": "https://github.com/Martijn91/nuxt-headroom#readme"
 }
